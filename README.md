@@ -4,8 +4,8 @@ This repository contains the official documentation for the PepeMint platform.
 
 ## Contents
 
-- [Introduction](Introduction_PepeMint.md)
-- [Installation](Installing_PepeMint.md)
+- [Introduction](Introduction.md)
+- [Installation](Installing.md)
 
 ## Contributing to the Documentation
 
