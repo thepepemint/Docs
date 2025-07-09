@@ -3,7 +3,7 @@
 This repository contains the official documentation for the PepeMint platform.
 
 ## Contents
-- [Whitepaper](WHITEPAPER.md)
+- [Whitepaper](pepemint_whitepaper.md)
 - [Introduction](Introduction.md)
 - [Installation](Installation.md)
 
